@@ -3,7 +3,6 @@
     "packages": [
         "packages/*"
     ],
-    "conventionalCommits": true,
     "command": {
         "publish": {
             "message": "chore(release): publish version",
