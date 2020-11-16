@@ -7,7 +7,7 @@ StyleLint shareable config for the iRaiser Scss style guide.
 
 ## Install
 
-    npm install @iraiser/stylelint-config-scss stylelint --save-dev
+    npm install @iraiser/stylelint-config-scss stylelint stylelint-scss --save-dev
     
 ## Usage
 
