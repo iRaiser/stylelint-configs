@@ -21,6 +21,7 @@
         "scss",
         "sass"
     ],
+    "license": "MIT",
     "homepage": "https://github.com/iRaiser/stylelint-configs/blob/master/packages/stylelint-config-scss",
     "bugs": {
         "url": "https://github.com/iRaiser/stylelint-configs/issues"

@@ -19,6 +19,7 @@
         "stylelint",
         "css"
     ],
+    "license": "MIT",
     "homepage": "https://github.com/iRaiser/stylelint-configs/blob/master/packages/stylelint-config-base",
     "bugs": {
         "url": "https://github.com/iRaiser/stylelint-configs/issues"
