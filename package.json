@@ -1,13 +1,17 @@
 {
-	"private": true,
-	"scripts": {
-		"postinstall": "lerna bootstrap --hoist"
-	},
-	"engines": {
-		"node": ">=10.0.0",
-		"npm": ">=6.0.0"
-	},
-	"devDependencies": {
-		"lerna": "^3.22.1"
-	}
+    "private": true,
+    "scripts": {
+        "prepare": "husky install",
+        "postinstall": "lerna bootstrap --hoist"
+    },
+    "engines": {
+        "node": ">=10.0.0",
+        "npm": ">=7.0.0"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^12.1.4",
+        "@commitlint/config-conventional": "^12.1.4",
+        "husky": "^6.0.0",
+        "lerna": "^4.0.0"
+    }
 }
