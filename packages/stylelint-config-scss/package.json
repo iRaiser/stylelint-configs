@@ -9,8 +9,8 @@
     },
     "dependencies": {
         "@types/node": "^15.12.2",
-        "stylelint": "^13.8.0",
-        "stylelint-config-standard": "^22.0.0",
+        "stylelint": "^14.0.0",
+        "stylelint-config-standard": "^23.0.0",
         "stylelint-scss": "^3.18.0"
     },
     "files": [
