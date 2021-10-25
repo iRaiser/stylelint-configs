@@ -8,7 +8,7 @@ StyleLint shareable config for the iRaiser CSS style guide.
 ## Install
 
     npm install @iraiser/stylelint-config-base stylelint --save-dev
-    
+
 ## Usage
 
 Create ``.stylelintrc`` file on root of your project.
@@ -21,4 +21,5 @@ Create ``.stylelintrc`` file on root of your project.
 }
 ```
 
-You can extend the rules with your own config, see [StyleLint documentation](https://stylelint.io/user-guide/configuration).
+You can extend the rules with your own config,
+see [StyleLint documentation](https://stylelint.io/user-guide/configuration).

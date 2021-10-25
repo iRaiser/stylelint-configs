@@ -1,12 +1,13 @@
 'use strict';
 
 module.exports = {
-    'extends': 'stylelint-config-standard',
+    'extends': [
+        'stylelint-config-standard'
+    ],
     'rules': {
         'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
-            'always',
-            {
+            'always', {
                 'except': [
                     'blockless-after-same-name-blockless',
                     'first-nested'
@@ -24,8 +25,7 @@ module.exports = {
         'at-rule-no-vendor-prefix': true,
         'at-rule-semicolon-space-before': 'never',
         'block-closing-brace-newline-after': [
-            'always',
-            {
+            'always', {
                 'ignoreAtRules': [
                     'if',
                     'else'
@@ -45,17 +45,16 @@ module.exports = {
         },
         'function-parentheses-newline-inside': 'never-multi-line',
         'function-url-quotes': [
-            'always',
-            {
+            'always', {
                 'except': [
                     'empty'
                 ]
             }
         ],
         'indentation': 4,
+        'max-line-length': null,
         'max-nesting-depth': [
-            3,
-            {
+            3, {
                 'ignoreAtRules': [
                     'media',
                     'include'
@@ -64,6 +63,7 @@ module.exports = {
         ],
         'no-descending-specificity': null,
         'selector-attribute-quotes': 'always',
+        'selector-class-pattern': null,
         'shorthand-property-no-redundant-values': true,
         'string-quotes': 'double'
     }
