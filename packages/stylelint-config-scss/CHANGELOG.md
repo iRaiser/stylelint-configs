@@ -11,11 +11,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **scss:** bump to `stylelint` 14.0.0 ([e3532a0](https://github.com/iRaiser/stylelint-configs/commit/e3532a0719b9dbff667a8cc377c9d2f09a131097))
 
 
-
-# Release Notes
-
-## Unreleased
-
 ## v1.1.0 (2021-01-12)
 
 ### Added

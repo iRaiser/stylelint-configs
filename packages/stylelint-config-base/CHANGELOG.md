@@ -11,11 +11,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **base:** bump to `stylelint` 14.0.0 ([675e6f5](https://github.com/iRaiser/stylelint-configs/commit/675e6f5ebb9fa5e0d1188745f7337253a27480dc))
 
 
-
-# Release Notes
-
-## Unreleased
-
 ## v1.0.2 (2021-01-12)
 
 ### Changed
