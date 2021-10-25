@@ -1,3 +1,17 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.3.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-scss@1.2.0...@iraiser/stylelint-config-scss@1.3.0) (2021-10-25)
+
+
+### Features
+
+* **scss:** bump to `stylelint` 14.0.0 ([e3532a0](https://github.com/iRaiser/stylelint-configs/commit/e3532a0719b9dbff667a8cc377c9d2f09a131097))
+
+
+
 # Release Notes
 
 ## Unreleased
