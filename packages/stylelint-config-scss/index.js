@@ -1,16 +1,14 @@
 'use strict';
 
 module.exports = {
-    'plugins': [
-        'stylelint-scss'
+    'extends': [
+        'stylelint-config-recommended-scss'
     ],
     'rules': {
-        'scss/at-import-no-partial-leading-underscore': true,
-        'scss/comment-no-empty': true,
         'scss/comment-no-loud': true,
         'scss/double-slash-comment-empty-line-before': [
             'always', {
-                ignore: [
+                'ignore': [
                     'between-comments',
                     'stylelint-commands'
                 ]
