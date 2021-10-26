@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.2.0...@iraiser/stylelint-config-base@1.3.0) (2021-10-26)
+
+
+### Features
+
+* **base:** remove `alpha-value-notation` and `no-descending-specificity` rules ([ead0694](https://github.com/iRaiser/stylelint-configs/commit/ead06947e34513aecf2e6e3dbea95cbd55e6967c))
+
+
+
+
 ## [1.2.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.1.0...@iraiser/stylelint-config-base@1.2.0) (2021-10-25)
 
 
