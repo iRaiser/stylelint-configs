@@ -7,7 +7,8 @@ module.exports = {
     'rules': {
         'scss/comment-no-loud': true,
         'scss/double-slash-comment-empty-line-before': [
-            'always', {
+            'always',
+            {
                 'ignore': [
                     'between-comments',
                     'stylelint-commands'
