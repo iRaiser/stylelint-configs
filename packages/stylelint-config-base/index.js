@@ -5,6 +5,7 @@ module.exports = {
         'stylelint-config-standard'
     ],
     'rules': {
+        'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
             'always',
             {
