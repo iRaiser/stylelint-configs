@@ -5,7 +5,6 @@ module.exports = {
         'stylelint-config-standard'
     ],
     'rules': {
-        'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
             'always', {
                 'except': [
@@ -61,7 +60,6 @@ module.exports = {
                 ]
             }
         ],
-        'no-descending-specificity': null,
         'selector-attribute-quotes': 'always',
         'selector-class-pattern': null,
         'shorthand-property-no-redundant-values': true,
