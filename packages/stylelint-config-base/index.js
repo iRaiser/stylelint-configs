@@ -6,7 +6,8 @@ module.exports = {
     ],
     'rules': {
         'at-rule-empty-line-before': [
-            'always', {
+            'always',
+            {
                 'except': [
                     'blockless-after-same-name-blockless',
                     'first-nested'
@@ -24,7 +25,8 @@ module.exports = {
         'at-rule-no-vendor-prefix': true,
         'at-rule-semicolon-space-before': 'never',
         'block-closing-brace-newline-after': [
-            'always', {
+            'always',
+            {
                 'ignoreAtRules': [
                     'if',
                     'else'
@@ -44,7 +46,8 @@ module.exports = {
         },
         'function-parentheses-newline-inside': 'never-multi-line',
         'function-url-quotes': [
-            'always', {
+            'always',
+            {
                 'except': [
                     'empty'
                 ]
@@ -53,7 +56,8 @@ module.exports = {
         'indentation': 4,
         'max-line-length': null,
         'max-nesting-depth': [
-            3, {
+            3,
+            {
                 'ignoreAtRules': [
                     'media',
                     'include'
