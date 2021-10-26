@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.3.1](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.3.0...@iraiser/stylelint-config-base@1.3.1) (2021-10-26)
+
+
+### Reverts
+
+* **base:** `alpha-value-notation` is back ([81f1fd9](https://github.com/iRaiser/stylelint-configs/commit/81f1fd940bf03f7e31157523bb7a89944d98dd82))
+
+
+
 ## [1.3.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.2.0...@iraiser/stylelint-config-base@1.3.0) (2021-10-26)
 
 
