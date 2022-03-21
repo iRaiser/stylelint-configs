@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "stylelint": "^14.0.0",
-        "stylelint-config-recommended-scss": "^5.0.0"
+        "stylelint-config-recommended-scss": "^6.0.0"
     },
     "files": [
         "index.js"
