@@ -14,7 +14,7 @@
         "@commitlint/cli": "^17.0.3",
         "@commitlint/config-conventional": "^17.0.3",
         "husky": "^8.0.1",
-        "lerna": "^5.4.2",
+        "lerna": "^5.5.1",
         "stylelint": "^14.10.0",
         "stylelint-config-recommended-scss": "^7.0.0",
         "stylelint-config-standard": "^27.0.0"
