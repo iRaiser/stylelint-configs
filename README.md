@@ -30,7 +30,7 @@ the `release` command:
 
 ## Packages
 
-| Package | Version |
-|---|---|
+| Package                                                                                                                       | Version                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | [``@iraiser/stylelint-config-base``](https://github.com/iRaiser/stylelint-configs/blob/master/packages/stylelint-config-base) | [![Version](https://flat.badgen.net/npm/v/@iraiser/stylelint-config-base)](https://www.npmjs.com/package/@iraiser/stylelint-config-base) |
 | [``@iraiser/stylelint-config-scss``](https://github.com/iRaiser/stylelint-configs/blob/master/packages/stylelint-config-scss) | [![Version](https://flat.badgen.net/npm/v/@iraiser/stylelint-config-scss)](https://www.npmjs.com/package/@iraiser/stylelint-config-scss) |
