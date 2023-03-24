@@ -4,13 +4,15 @@ StyleLint configs for the iRaiser style guide.
 
 ## Install
 
-    npm install @iraiser/stylelint-config-base stylelint --save-dev
+```shell
+npm install @iraiser/stylelint-config-base stylelint --save-dev
+```
 
 ## Usage
 
 Create ``.stylelintrc`` file on root of your project.
 
-```
+```json
 {
     "extends": [
         "@iraiser/stylelint-config-base"
@@ -23,10 +25,12 @@ see [StyleLint documentation](https://stylelint.io/user-guide/configuration).
 
 ## Release
 
-When you have finish developing a feature, bugfix or something else, push your changes on `master` branch and launch
+When you have finish developing a feature, bugfix or something else, push your changes on `main` branch and launch
 the `release` command:
 
-    npm run release
+```shell
+npm run release
+```
 
 ## Packages
 
