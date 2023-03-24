@@ -2,7 +2,6 @@
     "private": true,
     "scripts": {
         "prepare": "husky install",
-        "postinstall": "lerna bootstrap --hoist",
         "release:dry": "lerna version --no-push",
         "release": "lerna publish"
     },
