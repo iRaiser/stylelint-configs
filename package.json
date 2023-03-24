@@ -7,13 +7,13 @@
         "release": "lerna publish"
     },
     "engines": {
-        "node": ">=14.0.0",
+        "node": ">=16.0.0",
         "npm": ">=8.0.0"
     },
     "devDependencies": {
-        "@commitlint/cli": "^17.0.3",
-        "@commitlint/config-conventional": "^17.0.3",
-        "husky": "^8.0.1",
+        "@commitlint/cli": "^17.5.0",
+        "@commitlint/config-conventional": "^17.4.4",
+        "husky": "^8.0.3",
         "lerna": "^5.5.1",
         "stylelint": "^14.10.0",
         "stylelint-config-recommended-scss": "^7.0.0",
