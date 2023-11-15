@@ -14,7 +14,8 @@ module.exports = {
                     'first-nested'
                 ],
                 'ignore': [
-                    'after-comment'
+                    'after-comment',
+                    'blockless-after-blockless'
                 ],
                 'ignoreAtRules': [
                     'else'
