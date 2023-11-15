@@ -4,8 +4,8 @@
     "version": "1.4.0",
     "main": "index.js",
     "dependencies": {
-        "stylelint": "^15.3.0",
-        "stylelint-config-recommended-scss": "^9.0.1"
+        "stylelint": "^15.11.0",
+        "stylelint-config-recommended-scss": "^13.1.0"
     },
     "files": [
         "index.js"
