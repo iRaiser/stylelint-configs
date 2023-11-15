@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.4.0...@iraiser/stylelint-config-base@1.5.0) (2023-11-15)
+
+
+### Features
+
+* **base:** add `blockless-after-blockless` on `at-rule-empty-line-before` rule ([6e46180](https://github.com/iRaiser/stylelint-configs/commit/6e461806ecefae62f442ee4874ee1bbf39249340))
+
+
+
+
 ## [1.4.0](https://github.com/iRaiser/stylelint-configs/compare/@iraiser/stylelint-config-base@1.3.1...@iraiser/stylelint-config-base@1.4.0) (2023-03-24)
 
 
